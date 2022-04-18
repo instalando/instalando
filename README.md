@@ -1,8 +1,17 @@
 # Sobre mim
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+
 Olá! Me chamo Vitor, mas aqui na internet as pessoas me conhecem por Instalando.
 
 Atualmente moro no Rio Grande do Sul, Brasil. E meu trabalho atual é consertar bugs. No meu tempo livre, costumo desenvolver projetos de código aberto.
+
+
+<br>
+<br>
+<br>
+<br>
 
 # Linguagens e ferramentas 
 
